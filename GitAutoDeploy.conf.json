@@ -1,0 +1,9 @@
+{
+	"port": 8001, 
+	"repositories": 
+	[{
+		"url": "https://github.com/bcejmxjs/blackbelt", 
+		"path": "/home/jacob/blackbelt/",
+		"deploy": "npm install; grunt mongo:load; grunt test"	
+	}]
+}
